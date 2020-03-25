@@ -2,12 +2,12 @@
 <html>
 <body>
 
-<SELECT onChange="document.x1.src=options[selectedIndex].value"> 
+<select onChange="document.x1.src=options[selectedIndex].value"> 
 <option value="images/m04.jpg">油菜花開</option> 
 <option value="images/m03.jpg">往事如茶</option> 
 <option value="images/m02.jpg">野花綻放</option> 
 <option value="https://raw.githubusercontent.com/gitnick815/ypp543/master/m04.jpg">紅葉傳情</option> 
-</SELECT>
+</select>
 <img src="m02.jpg" alt="" name="x1">
 
 </body>
